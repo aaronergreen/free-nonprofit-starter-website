@@ -18,9 +18,9 @@ org_address_suite: #Suite 900
 org_city: New York
 org_state: NY
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  #94103
+  
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  #(123) 456-7890
+  
 
 #SOCIAL MEDIA
 org_twitter_username: #
