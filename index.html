@@ -68,7 +68,7 @@ layout: default
 <section id="about" class="about section">
   <div class="container">
     <h2 class="title text-center">About Us</h2>
-    <p class="intro text-center">{{ site.org_full_description }}</p>
+    <div class="intro text-center">{{ site.org_full_description }}</div>
   </div><!--//container-->
 </section><!--//about-->
 
@@ -206,7 +206,9 @@ layout: default
       </address>
       <div class="clearfix"></div>
       <div class="info text-center">
+      {% if site.twitter_username or site.facebook_username or site.instagram_username  %}
         <h4 class="sub-title">Get Connected</h4>
+        {% endif %}
         <ul class="social-icons list-inline">
         {% if site.twitter_username %}
         <li><a href="https://twitter.com/{{ site.org_twitter_username }}" target="_blank"><i class="fa fa-twitter"></i></a></li>
@@ -221,6 +223,7 @@ layout: default
         <li class="last"><a href="mailto: {{ site.org_general_email_inbox }}"><i class="fa fa-envelope"></i></a></li>
         {% endif %}
       </ul>
+
       </div><!--//info-->
     </div><!--//contact-inner-->
   </div><!--//container-->
