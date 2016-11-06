@@ -4,21 +4,36 @@
 #If you see '> # Enter on the next line', be sure the next line remains indented two spaces.
 
 #REQUIRED
-org_name: Social Rocket Factory
+org_name: <b>JUMPSTARTS</b>
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  Helping early-stage social enterprises solve business/change model problems.
-org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  <p>We believe the Social Change Sector is <u>not</u> currently producing anywhere near enough change (nor the right kind of change) to appropriately match the magnitude and the urgency of society's global challenges and opportunities.</p>
-  <p>To help early-stage social enterprises get better, we bring together the founders of 1 Featured Social Startup and 7 Expert Panelists at what we call a - <b>JumpStart.</b></p>
-  <p>JumpStarts are 3-hour guided discussions that unpack a specific Business/Change model problem in order to produce a three immediately <u>Actionable Solutions</u>.</p>
-    <p>
+  Intensively deconstruct your social venture and move ahead:
+  <p>
+    Sustainable.<br />
+    Scalable.<br />
+    Investible.<br />
+    </p>
+org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.\
+  <b>WHAT?</b>
+  <p>JumpStarts are <u>monthly problem-solving sessions</u> that employ guided group discussion (3hrs) to unpack and to solve a highly-focused <u>strategic/operational business challenge</u> — a challenge that must be practically resolved before the Featured Startup can progress to its next stage of sustainable growth.</p>
+  <p>JUMPSTART SESSIONS</p>
+    <p>JumpStarts bring together:
+    Founders of 1 Featured Social Startup (non-profit, for-profit, benefit corp., hybrid)<br />
+    7 Expert Panelists<br />
+    1 Goldilox Problem<br />
+    </p>
+  <p>GOLDILOX PROBLEM</p>
+    <p>Goldilox Problem = a focused Business/Change Model problem, neither too broad nor too narrow for a three-hour collaborative discussion.
+    GP Question Frames:
+    A Challenge to Overcome or An Opportunity to Seize: How do we solve or accomplish ___________?”<br />
+    Choosing Between Alternatives: Should we pursue either Option A or Option B?<br />
+    </p>
+  
+<p>JumpStarts bring together:
     Item One<br />
     Item Two<br />
     Item three<br />
     </p>
   
-  
-
 #OPTIONAL
 #Non US-address support coming soon
 org_general_email_inbox: info@socialrocketfactory.com
