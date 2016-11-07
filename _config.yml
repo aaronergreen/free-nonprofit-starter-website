@@ -144,7 +144,7 @@ publish: false
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
-site_theme: "one"
+site_theme: "five"
 
 # *** DO NOT CHANGE ANYTHING BELOW THIS LINE ***
 
