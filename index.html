@@ -69,8 +69,11 @@ layout: default
   <div class="container">
     <h2 class="title text-center">About Us</h2>
     <div class="intro text-center">
-        {% assign about = site.document | where: 'slug', 'about' %}
-    {{ about.content }}
+
+        {% assign about = site.pages | where: 'title', 'About' %}
+        {% for object in about  %}
+        {{ object.content | markdownify }}
+{% endfor %}
 
     </div>
   </div><!--//container-->
