@@ -3,13 +3,6 @@ title: About
 layout: default
 ---
 
-# JUMPSTARTS  
- **Make your social venture**:    
-- Sustainable.  
-- Scalable.  
-- Investible.  
-
----
 ### WHAT?  
 
 JumpStarts are <u>monthly problem-solving sessions</u> that employ guided group discussion (3hrs) to unpack and to solve a highly-focused <u>strategic/operational business challenge</u> — a challenge that must be practically resolved before the Featured Startup can progress to its next stage of sustainable growth.
